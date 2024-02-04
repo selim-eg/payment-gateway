@@ -1,0 +1,22 @@
+venv
+*.pyc
+*.env
+nginx/logs
+#media
+logs
+fixtures
+env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Compiled Python files
+*.pyc
+
+
+# macOS
+.DS_Store
